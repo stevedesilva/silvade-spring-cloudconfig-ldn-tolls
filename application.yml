@@ -3,3 +3,4 @@ rate: 1.55
 tollstart: '05:00'
 tollstop: '22:00'
 lanecount: 0
+connstring={cipher}2f93a2cfb7609946bea0027d2cfdd682ca54f30ee4feec6942f32b22f89074fc00c07aa24c9e5a6cf4b86c133c28263a1dce0a76001b3e8e8067d41e8de7d97392dd00ab006d7d016fbe7da94d04532d
